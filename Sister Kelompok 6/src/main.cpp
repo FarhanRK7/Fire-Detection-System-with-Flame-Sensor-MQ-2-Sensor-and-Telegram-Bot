@@ -5,9 +5,9 @@
 
 CTBot myBot;
 
-String ssid = "OkBos";
-String pass = "halo1234";
-String token = "6456268874:AAFCsVCYsJASZGlAjMdpmVnPObszYxP3JWg";
+String ssid = "xxxx"; //Wifi Name
+String pass = "xxxx"; //Wifi Pass
+String token = "xxxxx"; //Bot Telegram Token
 
 #define Api 26
 #define Gas 25
